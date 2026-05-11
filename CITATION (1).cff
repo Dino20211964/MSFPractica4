@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 4: Sistema Endocrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Victor Silvano
+    family-names: Dino Seañez
+    email: l20211964@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: 'https://github.com/Dino20211964/MSFPractica4'
+    description: Repositorio Github
+repository-code: 'https://github.com/Dino20211964/MSFPractica4'
+keywords:
+  - Sistema endócrino
+  - Sistemas dinámicos
+  - Modelado matemático
+  - Función de transferencia
+  - Circuito RLC
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-05-11'
